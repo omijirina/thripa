@@ -1,8 +1,8 @@
 ############################ banner ##########################
 banner:
   enable : true
-  title : "HIDRATANTES Y CREMAS"
-  content : "Hidratación revitalizante y revitalizante de día y de noche"
+  title : "Crema de noche hidratante antiarrugas"
+  content : "Los primeros signos del envejecimiento se pueden borrar en poco tiempo con la crema de noche antiarrugas Q10 Plus con vitamina C de Nivea Visage. Su fórmula activa contiene Coenzima Q10 y Vitamina C."
   image : "images/banner.png"
   # button
   button:
@@ -53,24 +53,15 @@ material:
 advantage:
   enable : true
   title : "Advantages Of Using <br> Our Product"
-  subtitle : "Consistencia de crema ultraligera y sin aceite"
+  subtitle : "La herramienta funciona eficazmente por la noche mientras duerme. La coenzima 10 es un excelente antioxidante que protege las células de la piel de los efectos dañinos de los radicales libres. La crema acelera los procesos de regeneración y metabólicos en la piel, mejora su capacidad de renovación y restauración. La coenzima 10 también mejora la síntesis de colágeno, lo que conduce al suavizado gradual de arrugas y líneas finas."
   image : "images/advantage.png"
-  advantageList:
-    # advantage list loop
-    - listItem : "Extremely lightweight"
-    - listItem : "Excellent breathability"
-    - listItem : "Can increase Cell activation"
-    - listItem : "Glowing Skin In 7 Days"
-    - listItem : "Increasing Glow Of Face"
-    - listItem : "More Beautiful Face Skin"
 
 
 ######################## Promo Video ##########################
 video:
   enable : true
   title : "How To Use This Product?"
-  content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et
-          dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et."
+  content : "Modo de empleo: Aplicar la crema sobre la piel con ligeros masajes, evitando la zona de los ojos."
   videoThumb : "images/video-thumb.jpg"
   videoURL : "https://www.youtube.com/embed/wf4F2-9UXUo"
 
@@ -88,29 +79,29 @@ testimonial:
   title : "What People Are Saying <br> About Our Product"
   testimonialItem:
     # testimonial item loop
-    - name : "Angela Perara"
+    - name : "Angelana Perara"
       image : "images/clients/client-1.jpg" # size 100px*100px
       designation : "CEO, Dialogue Broad Band"
-      content : "Crema bastante buena. Olor agradable y ligero, económico de usar, la piel es agradable al tacto después de su uso. Lo uso por la mañana y por la noche, la piel mixta se ha vuelto más mate."
+      content : "Estoy muy satisfecho con la crema. Ideal para pieles secas propensas a alergias. Hidrata y nutre bien. Crema de noche perfecta."
       rating : "five" # rating star, one to five
       
     # testimonial item loop
-    - name : "Riya Ventilo"
+    - name : "Riya Ventelo"
       image : "images/clients/client-2.jpg" # size 100px*100px
       designation : "CEO, Dialogue Broad Band"
-      content : "¡Satisfecho con la crema! He estado usando esta serie durante mucho tiempo. La crema es ligera, no deja brillos en el rostro con mi piel mixta. Deja una sensación de ligereza."
+      content : "¡Excelente crema, agradable textura no demasiado aceitosa! Para mi piel mixta propensa a los brotes a los 34 años, encajaba perfectamente. Hidrata bien y unifica la tez."
       rating : "three" # rating star, one to five
       
     # testimonial item loop
-    - name : "john Doe"
+    - name : "John Doe"
       image : "images/clients/client-3.jpg" # size 100px*100px
       designation : "CEO, Dialogue Broad Band"
-      content : "Literalmente suficientes guisantes. Ligero, bien absorbido."
+      content : "¡La crema es súper arenosa! Hidrata bien, se absorbe rápidamente, no engrasa la piel y tiene un olor agradable."
       rating : "five" # rating star, one to five
       
     # testimonial item loop
-    - name : "Riya Ventila"
+    - name : "Riyah Rentila"
       image : "images/clients/client-2.jpg" # size 100px*100px
       designation : "CEO, Dialogue Broad Band"
-      content : "Voy a comprar por segunda vez y compraré más. Muy buena crema, perfecta, el estado de la piel ha mejorado."
+      content : "Me gustó la crema, se absorbe rápidamente, no deja brillo graso, hidrata y huele bien, de momento no puedo decir nada más."
       rating : "four" # rating star, one to five
